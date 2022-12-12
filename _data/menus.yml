@@ -6,6 +6,18 @@
   url: /archive/
   external: false
 
+- title: python
+  url: /python/
+  external: false
+
+- title: ai
+  url: /ai/
+  external: false
+
+- title: error_repair
+  url: /error_repair/
+  external: false
+
 - title: about
   url: /about/
   external: false # set true if you using external link, see below
