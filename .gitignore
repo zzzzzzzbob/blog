@@ -6,3 +6,6 @@ _drafts
 klise-*.gem
 Gemfile.lock
 backup/
+
+.DS_Store
+_sass/.DS_Store
