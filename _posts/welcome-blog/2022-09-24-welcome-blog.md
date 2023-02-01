@@ -3,6 +3,9 @@ layout: post
 title:  "안녕하세요"
 date:   2022-09-24 16:00:00 +0900
 categories: init etc
+tag:  
+  - all
+  - etc
 ---
 
 {% highlight python %}
